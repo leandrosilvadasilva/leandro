@@ -275,7 +275,7 @@ a:active {
 
 /* The Modal (background) */
 
-.modal {
+.modal-desativado {
     display: none;
     /* Hidden by default */
     position: fixed;
@@ -301,7 +301,7 @@ a:active {
 
 /* Modal Content */
 
-.modal-content {
+.modal-content-desativado {
     background-color: #442828;
     margin: auto;
     padding: 20px;
@@ -312,15 +312,15 @@ a:active {
 
 /* The Close Button */
 
-.close {
+.close-desativado {
     color: #aaaaaa;
     float: right;
     font-size: 28px;
     font-weight: bold;
 }
 
-.close:hover,
-.close:focus {
+.close-desativado:hover,
+.close-desativado:focus {
     color: #000;
     text-decoration: none;
     cursor: pointer;
