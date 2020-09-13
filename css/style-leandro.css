@@ -235,6 +235,27 @@ a:active {
 /* end of Servicos */
 
 
+/* Mini Grid de serviços */
+
+.grid-servicos-mini {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    grid-gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+}
+
+.grid-servicos-mini>div {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+/* End of Mini Grid de serviços */
+
+
 /*conteúdo do modal*/
 
 

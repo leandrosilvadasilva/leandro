@@ -1,23 +1,5 @@
 
 
-
-<!-- INÍCIO CONTEÚDOS MODAL 
-
-
-
-<div id= "myModal" class=" modal">
-    <span class="close">&times;</span>
-    <div class="grid-container-modal modal-content">
-        <div class="grid-item item1">  Ter um ecommerce hoje é imprescindível para a 
-            permanência do seu negócio competitivo.</div>
-            <div class="grid-item item3">Formulário Contato</div>
-            <div class="grid-item item4">lISTA DE SERVIÇOS</div>  
-                <div class="grid-item item5">Clientes</div>
-        </div>
-    </div>
-</div>
-     FIM CONTEÚDOS MODAL -->
-
 <!-- GRID DE SERVIÇOS -->
     <div class="grid-container-servicos">
 
@@ -31,7 +13,7 @@
                     <h2>Ecommerce</h2>
                 </div>
                 <button class="button" id="myBtn">Saiba mais</button>
-               <!--  <button class="open-modal button" onclick="abrirModal()"></button>-->
+               
             </div>
 
             
@@ -42,6 +24,7 @@
                 <div class="content-titulo ">
                     <h2>SEO</h2>
                 </div>
+                <button class="button" id="myBtn">Saiba mais</button>
             </div>
 
             <div class="content-item ">
@@ -51,6 +34,7 @@
                 <div class="content-titulo ">
                     <h2>Seu site</h2>
                 </div>
+                <button class="button" id="myBtn">Saiba mais</button>
             </div>
             <div class="content-item ">
                 <div class="content-header ">
@@ -61,6 +45,7 @@
                     <h4>Adeque sua empresa a</h4>
                     <strong>Lei Geral de Proteção de Dados</strong>
                 </div>
+                <button class="button" id="myBtn">Saiba mais</button>
             </div>
             <div class="content-item ">
                 <div class="content-header ">
@@ -69,6 +54,7 @@
                 <div class="content-titulo ">
                     <h2>Recursos Google</h2>
                 </div>
+                <button class="button" id="myBtn">Saiba mais</button>
             </div>
             <div class="content-item ">
                 <div class="content-header ">
@@ -77,6 +63,7 @@
                 <div class="content-titulo ">
                     <h2>Marketplace</h2>
                 </div>
+                <button class="button" id="myBtn">Saiba mais</button>
             </div>
        
     </div>
